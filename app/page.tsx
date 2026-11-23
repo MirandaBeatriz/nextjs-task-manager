@@ -1,4 +1,4 @@
-import { TaskBlock } from "@/src/Blocks";
+import { TaskBlock } from "@/src/sections";
 import { Container, Title } from "@/src/components";
 
 export default function Home() {
